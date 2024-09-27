@@ -1,2 +1,1 @@
-Kami keliru dalam memahami persoalan yang diberikan.
 Kami mencoba mencari sebuah rumus untuk branching rating pada buku.
